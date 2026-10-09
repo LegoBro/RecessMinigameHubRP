@@ -19,7 +19,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
@@ -45,7 +45,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
@@ -70,7 +70,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
@@ -96,7 +96,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
@@ -122,7 +122,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
@@ -148,7 +148,7 @@
                     {
                         "name": "BlurDir",
                         "type": "vec2",
-                        "value": [ 1.0, 1.0 ]
+                        "value": [ 2.0, 2.0 ]
                     },
                     {
                         "name": "Radius",
