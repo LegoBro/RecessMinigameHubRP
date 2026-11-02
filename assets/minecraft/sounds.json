@@ -1,0 +1,81 @@
+{
+  "bohemian_beach": {
+  "sounds": [
+   {"name": "bohemian_beach",
+    "stream":"true"
+   }
+  ]
+ },"calm": {
+  "sounds": [
+   {"name": "calm",
+    "stream":"true"
+   }
+  ]
+ },"dolphin": {
+  "sounds": [
+   {"name": "dolphin",
+    "stream":"true"
+   }
+  ]
+ },"easy_seas": {
+  "sounds": [
+   {"name": "easy_seas",
+    "stream":"true"
+   }
+  ]
+ },"nebular_forces": {
+  "sounds": [
+   {"name": "nebular_forces",
+    "stream":"true"
+   }
+  ]
+ },"ocean_view": {
+  "sounds": [
+   {"name": "ocean_view",
+    "stream":"true"
+   }
+  ]
+ },"sea_of_ancestry": {
+  "sounds": [
+   {"name": "sea_of_ancestry",
+    "stream":"true"
+   }
+  ]
+ },"sea_space": {
+  "sounds": [
+   {"name": "sea_space",
+    "stream":"true"
+   }
+  ]
+ },"sleepy_west": {
+  "sounds": [
+   {"name": "sleepy_west",
+    "stream":"true"
+   }
+  ]
+ },"the_low_seas": {
+  "sounds": [
+   {"name": "the_low_seas",
+    "stream":"true"
+   }
+  ]
+ },"thin_places": {
+  "sounds": [
+   {"name": "thin_places",
+    "stream":"true"
+   }
+  ]
+ },"three_wise_people": {
+  "sounds": [
+   {"name": "three_wise_people",
+    "stream":"true"
+   }
+  ]
+ },"timeless": {
+  "sounds": [
+   {"name": "timeless",
+    "stream":"true"
+   }
+  ]
+ }
+}
